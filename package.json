@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "phaser": "^3.80.1"
+  }
+}
